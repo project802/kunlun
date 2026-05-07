@@ -1,0 +1,140 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "ec0b61f1-f2f7-4566-a925-1263988c944d")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 113.03 86.36)
+		(size 59.69 27.94)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0809fa4e-fcd8-4f22-ac43-99faf0cb5fbe")
+		(property "Sheetname" "Left Board"
+			(at 113.03 85.6484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "left_board.kicad_sch"
+			(at 113.03 114.8846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Kunlun"
+				(path "/ec0b61f1-f2f7-4566-a925-1263988c944d"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 184.15 86.36)
+		(size 63.5 27.94)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0ac3558f-709a-4a7c-bf6d-3f17cb23edbc")
+		(property "Sheetname" "Right Board"
+			(at 184.15 85.6484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "right_board.kicad_sch"
+			(at 184.15 114.8846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Kunlun"
+				(path "/ec0b61f1-f2f7-4566-a925-1263988c944d"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 41.91 86.36)
+		(size 59.69 27.94)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f692e932-86e0-49d2-b692-f932509c16c2")
+		(property "Sheetname" "MCU Board"
+			(at 41.91 85.6484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mcu_board.kicad_sch"
+			(at 41.91 114.8846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Kunlun"
+				(path "/ec0b61f1-f2f7-4566-a925-1263988c944d"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
