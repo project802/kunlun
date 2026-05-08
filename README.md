@@ -78,7 +78,7 @@ The right PCB was the closest to where the final ESD strike occurred so that is 
 
 Starting with the first register in the chain, U24, verify inputs on pins 11 (clock) and 14 (data). You should see something similar to below.
 
-![Scan Start](scope traces/scan start.bmp)
+![Scan Start](./scope%20traces/scan%20start%20zoom%20in.bmp)
 
 The data (yellow trace) can be seen driving low, clocked in, and slowly rising due to the weak pull-up.
 
@@ -86,6 +86,6 @@ Next, check pin 9 to make sure the IC is shifting the bit out and into the next 
 
 Check the outputs of the shift register to make sure they are switching between open drain and driving low. You will need to press a key to connect the output to the pull-up within the micro, otherwise it will look like its driving low the entire time. It isn't! I also had this failure mode where the lines were driving low. It seems my IC had a dead data input internally and was always reading zeros so it latched those to the outputs and shifted it into the next in line.
 
-A good keypress with the input (yellow) and bit clock (blue) is below.
+A key pressed with its shift register output (yellow) and the bit clock (blue) is below.
 
-![Good Keypress](scope traces/keypress zoom in.bmp)
+![Good Keypress](./scope%20traces/keypress%20zoom%20in.bmp)
