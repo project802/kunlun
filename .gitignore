@@ -1,4 +1,5 @@
-/kicad/Kunlun-backups
+kicad/Kunlun-backups
 kicad/fp-info-cache
 *.kicad_prl
 *.log
+mcu board redesign/kicad/Kunlun STM32 MCU Board-backups
