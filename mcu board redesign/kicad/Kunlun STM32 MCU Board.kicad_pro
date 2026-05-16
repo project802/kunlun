@@ -833,7 +833,7 @@
         "uuid": "3c318d90-3b38-454d-95e4-57bd8de289e0"
       }
     ],
-    "used_designators": "",
+    "used_designators": "LS1,Q1,JP1,#PWR26,R7",
     "variants": []
   },
   "sheets": [
