@@ -40,8 +40,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 3.4,
-          "width": 1.125
+          "height": 0.95,
+          "width": 0.9
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -60,13 +60,13 @@
           "hatch_smoothing_level": 0,
           "hatch_smoothing_value": 0.1,
           "hatch_thickness": 1.0,
-          "min_clearance": 0.21,
+          "min_clearance": 0.1,
           "min_island_area": 10.0,
-          "min_thickness": 0.25,
+          "min_thickness": 0.1,
           "pad_connection": 1,
           "remove_islands": 0,
-          "thermal_relief_gap": 0.5,
-          "thermal_relief_spoke_width": 0.3
+          "thermal_relief_gap": 0.2,
+          "thermal_relief_spoke_width": 0.8
         }
       },
       "diff_pair_dimensions": [
@@ -673,10 +673,10 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 2147483647,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.2,
+        "track_width": 0.3,
         "tuning_profile": "",
-        "via_diameter": 0.8,
-        "via_drill": 0.4,
+        "via_diameter": 0.7,
+        "via_drill": 0.3,
         "wire_width": 6
       }
     ],
@@ -833,7 +833,7 @@
         "uuid": "3c318d90-3b38-454d-95e4-57bd8de289e0"
       }
     ],
-    "used_designators": "#PWR25-28,C9,R1-2,R6,JP1-3,H2-4",
+    "used_designators": "C12,#PWR19,#PWR24",
     "variants": []
   },
   "sheets": [
