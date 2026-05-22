@@ -7733,7 +7733,7 @@
 				)
 			)
 		)
-		(property "PartNo" ""
+		(property "DigikeyAlt" "AP7365-33WG-7DICT-ND"
 			(at 187.96 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -9544,7 +9544,7 @@
 				)
 			)
 		)
-		(property "Digikey" "399-C0603C475K9PACTUCT-ND"
+		(property "Digikey" "1276-2087-1-ND"
 			(at 92.71 176.53 0)
 			(hide yes)
 			(show_name no)
@@ -9929,7 +9929,7 @@
 				)
 			)
 		)
-		(property "Digikey" "399-C0603C475K9PACTUCT-ND"
+		(property "Digikey" "1276-2087-1-ND"
 			(at 55.88 176.53 0)
 			(hide yes)
 			(show_name no)
