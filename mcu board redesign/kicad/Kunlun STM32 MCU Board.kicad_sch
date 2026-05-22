@@ -7471,7 +7471,29 @@
 				)
 			)
 		)
-		(property "PartNo" "497-5235-1-ND"
+		(property "Digikey" "497-5235-1-ND"
+			(at 187.96 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C7519"
+			(at 187.96 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNo" ""
 			(at 187.96 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -7576,7 +7598,29 @@
 				)
 			)
 		)
-		(property "PartNo" "102-3761-1-ND"
+		(property "Digikey" "102-3761-1-ND"
+			(at 67.31 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C95163"
+			(at 67.31 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNo" ""
 			(at 67.31 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -7667,7 +7711,29 @@
 				)
 			)
 		)
-		(property "PartNo" "AP2112K-3.3TRG1DICT-ND"
+		(property "Digikey" "AP2112K-3.3TRG1DICT-ND"
+			(at 187.96 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C51118"
+			(at 187.96 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNo" ""
 			(at 187.96 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -7768,7 +7834,29 @@
 				)
 			)
 		)
-		(property "PartNo" "36-5001-ND"
+		(property "Digikey" "36-5001-ND"
+			(at 184.15 104.14 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C238122"
+			(at 184.15 104.14 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNo" ""
 			(at 184.15 104.14 90)
 			(hide yes)
 			(show_name no)
@@ -7934,7 +8022,29 @@
 				)
 			)
 		)
-		(property "PartNo" "609-10129383-908001ALFCT-ND"
+		(property "Digikey" "609-10129383-908001ALFCT-ND"
+			(at 246.38 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C49326142"
+			(at 246.38 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNo" ""
 			(at 246.38 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -8123,7 +8233,29 @@
 				)
 			)
 		)
-		(property "PartNo" "2073-USB4105-GF-ACT-ND"
+		(property "Digikey" "2073-USB4105-GF-ACT-ND"
+			(at 255.27 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C3020560"
+			(at 255.27 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNo" ""
 			(at 255.27 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -8261,7 +8393,29 @@
 				)
 			)
 		)
-		(property "PartNo" "399-C0603C105K4RACTUCT-ND"
+		(property "Digikey" "399-C0603C105K4RACTUCT-ND"
+			(at 201.93 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C14663"
+			(at 201.93 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNo" ""
 			(at 201.93 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -8432,7 +8586,29 @@
 				)
 			)
 		)
-		(property "PartNo" "399-C0603C105K4RACTUCT-ND"
+		(property "Digikey" "399-C0603C105K4RACTUCT-ND"
+			(at 166.37 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C14663"
+			(at 166.37 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNo" ""
 			(at 166.37 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -8601,8 +8777,30 @@
 				)
 			)
 		)
-		(property "PartNo" "RMCF1206FT1M00CT-ND"
+		(property "Digikey" "RMCF1206FT1M00CT-ND"
 			(at 184.15 138.43 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C17927"
+			(at 184.15 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNo" ""
+			(at 184.15 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8692,7 +8890,29 @@
 				)
 			)
 		)
-		(property "PartNo" "RMCF0603JT10K0CT-ND"
+		(property "Digikey" "RMCF0603JT10K0CT-ND"
+			(at 123.19 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C25804"
+			(at 123.19 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNo" ""
 			(at 123.19 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -8941,7 +9161,29 @@
 				)
 			)
 		)
-		(property "PartNo" "SMAJ5.0CALFCT-ND"
+		(property "Digikey" "SMAJ5.0CALFCT-ND"
+			(at 201.93 138.43 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C83324"
+			(at 201.93 138.43 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNo" ""
 			(at 201.93 138.43 90)
 			(hide yes)
 			(show_name no)
@@ -9109,7 +9351,29 @@
 				)
 			)
 		)
-		(property "PartNo" "RMCF0603FT22R0CT-ND"
+		(property "Digikey" "RMCF0603FT22R0CT-ND"
+			(at 101.6 67.31 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C23345"
+			(at 101.6 67.31 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNo" ""
 			(at 101.6 67.31 90)
 			(hide yes)
 			(show_name no)
@@ -9280,7 +9544,29 @@
 				)
 			)
 		)
-		(property "PartNo" "399-C0603C475K9PACTUCT-ND"
+		(property "Digikey" "399-C0603C475K9PACTUCT-ND"
+			(at 92.71 176.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C14663"
+			(at 92.71 176.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNo" ""
 			(at 92.71 176.53 0)
 			(hide yes)
 			(show_name no)
@@ -9372,7 +9658,29 @@
 				)
 			)
 		)
-		(property "PartNo" "5923-0ZCJ0050FF2GCT-ND"
+		(property "Digikey" "5923-0ZCJ0050FF2GCT-ND"
+			(at 231.14 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C6964264"
+			(at 231.14 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNo" ""
 			(at 231.14 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -9621,7 +9929,29 @@
 				)
 			)
 		)
-		(property "PartNo" "399-C0603C475K9PACTUCT-ND"
+		(property "Digikey" "399-C0603C475K9PACTUCT-ND"
+			(at 55.88 176.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C14663"
+			(at 55.88 176.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNo" ""
 			(at 55.88 176.53 0)
 			(hide yes)
 			(show_name no)
@@ -9792,7 +10122,29 @@
 				)
 			)
 		)
-		(property "PartNo" "399-C0603C105K4RACTUCT-ND"
+		(property "Digikey" "399-C0603C105K4RACTUCT-ND"
+			(at 127 176.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C14663"
+			(at 127 176.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNo" ""
 			(at 127 176.53 0)
 			(hide yes)
 			(show_name no)
@@ -9884,7 +10236,29 @@
 				)
 			)
 		)
-		(property "PartNo" "36-5002-ND"
+		(property "Digikey" "36-5002-ND"
+			(at 106.68 30.48 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C238123"
+			(at 106.68 30.48 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNo" ""
 			(at 106.68 30.48 90)
 			(hide yes)
 			(show_name no)
@@ -9963,6 +10337,17 @@
 		)
 		(property "Description" "3-pole Solder Jumper, pins 1+2 closed/bridged"
 			(at 46.99 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNo" ""
+			(at 34.29 142.24 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10132,7 +10517,29 @@
 				)
 			)
 		)
-		(property "PartNo" "RMCF0603FT5K10CT-ND"
+		(property "Digikey" "RMCF0603FT5K10CT-ND"
+			(at 224.79 46.99 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C23186"
+			(at 224.79 46.99 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNo" ""
 			(at 224.79 46.99 90)
 			(hide yes)
 			(show_name no)
@@ -10225,7 +10632,29 @@
 				)
 			)
 		)
-		(property "PartNo" "399-C0603C104K5RACTUCT-ND"
+		(property "Digikey" "399-C0603C104K5RACTUCT-ND"
+			(at 27.94 176.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C14663"
+			(at 27.94 176.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNo" ""
 			(at 27.94 176.53 0)
 			(hide yes)
 			(show_name no)
@@ -10552,7 +10981,29 @@
 				)
 			)
 		)
-		(property "PartNo" "399-C0603C104K5RACTUCT-ND"
+		(property "Digikey" "399-C0603C104K5RACTUCT-ND"
+			(at 78.74 176.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C14663"
+			(at 78.74 176.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNo" ""
 			(at 78.74 176.53 0)
 			(hide yes)
 			(show_name no)
@@ -10720,7 +11171,29 @@
 				)
 			)
 		)
-		(property "PartNo" "RMCF0603FT22R0CT-ND"
+		(property "Digikey" "RMCF0603FT22R0CT-ND"
+			(at 101.6 69.85 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C23345"
+			(at 101.6 69.85 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNo" ""
 			(at 101.6 69.85 90)
 			(hide yes)
 			(show_name no)
@@ -10813,7 +11286,29 @@
 				)
 			)
 		)
-		(property "PartNo" "497-14645-ND"
+		(property "Digikey" "497-14645-ND"
+			(at 67.31 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C81720"
+			(at 67.31 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNo" ""
 			(at 67.31 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -11041,7 +11536,29 @@
 				)
 			)
 		)
-		(property "PartNo" "RMCF0603FT5K10CT-ND"
+		(property "Digikey" "RMCF0603FT5K10CT-ND"
+			(at 224.79 49.53 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C23186"
+			(at 224.79 49.53 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNo" ""
 			(at 224.79 49.53 90)
 			(hide yes)
 			(show_name no)
@@ -11212,7 +11729,29 @@
 				)
 			)
 		)
-		(property "PartNo" "399-C0603C105K4RACTUCT-ND"
+		(property "Digikey" "399-C0603C105K4RACTUCT-ND"
+			(at 152.4 176.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C14663"
+			(at 152.4 176.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNo" ""
 			(at 152.4 176.53 0)
 			(hide yes)
 			(show_name no)
@@ -11383,7 +11922,29 @@
 				)
 			)
 		)
-		(property "PartNo" "WM7624CT-ND"
+		(property "Digikey" "WM7624CT-ND"
+			(at 256.54 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C225115"
+			(at 256.54 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNo" ""
 			(at 256.54 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -11488,7 +12049,29 @@
 				)
 			)
 		)
-		(property "PartNo" "CKN10284CT-ND"
+		(property "Digikey" "CKN10284CT-ND"
+			(at 110.49 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C99271"
+			(at 110.49 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNo" ""
 			(at 110.49 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -11580,7 +12163,29 @@
 				)
 			)
 		)
-		(property "PartNo" "399-C0603C104K5RACTUCT-ND"
+		(property "Digikey" "399-C0603C104K5RACTUCT-ND"
+			(at 33.02 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C14663"
+			(at 33.02 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNo" ""
 			(at 33.02 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -11672,7 +12277,29 @@
 				)
 			)
 		)
-		(property "PartNo" "311-1489-1-ND"
+		(property "Digikey" "311-1489-1-ND"
+			(at 191.77 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C9196"
+			(at 191.77 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNo" ""
 			(at 191.77 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -11764,7 +12391,29 @@
 				)
 			)
 		)
-		(property "PartNo" "36-5002-ND"
+		(property "Digikey" "36-5002-ND"
+			(at 100.33 30.48 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C238123"
+			(at 100.33 30.48 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNo" ""
 			(at 100.33 30.48 90)
 			(hide yes)
 			(show_name no)
@@ -12007,7 +12656,29 @@
 				)
 			)
 		)
-		(property "PartNo" "RMCF0603FT100RCT-ND"
+		(property "Digikey" "RMCF0603FT100RCT-ND"
+			(at 55.88 139.7 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2479061"
+			(at 55.88 139.7 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNo" ""
 			(at 55.88 139.7 90)
 			(hide yes)
 			(show_name no)
@@ -12257,6 +12928,17 @@
 				)
 			)
 		)
+		(property "PartNo" ""
+			(at 191.77 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "fcedafc9-6d8e-4f56-9467-8a8a26f824c5")
 		)
@@ -12336,7 +13018,29 @@
 				)
 			)
 		)
-		(property "PartNo" "399-C0603C103K5RACTUCT-ND"
+		(property "Digikey" "399-C0603C103K5RACTUCT-ND"
+			(at 114.3 176.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C57112"
+			(at 114.3 176.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNo" ""
 			(at 114.3 176.53 0)
 			(hide yes)
 			(show_name no)
@@ -12584,7 +13288,29 @@
 				)
 			)
 		)
-		(property "PartNo" "36-5001-ND"
+		(property "Digikey" "36-5001-ND"
+			(at 191.77 104.14 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C238122"
+			(at 191.77 104.14 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNo" ""
 			(at 191.77 104.14 90)
 			(hide yes)
 			(show_name no)
@@ -12673,7 +13399,29 @@
 				)
 			)
 		)
-		(property "PartNo" "36-5002-ND"
+		(property "Digikey" "36-5002-ND"
+			(at 93.98 30.48 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C238123"
+			(at 93.98 30.48 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNo" ""
 			(at 93.98 30.48 90)
 			(hide yes)
 			(show_name no)
@@ -12762,7 +13510,29 @@
 				)
 			)
 		)
-		(property "PartNo" "36-5002-ND"
+		(property "Digikey" "36-5002-ND"
+			(at 87.63 30.48 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C238123"
+			(at 87.63 30.48 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNo" ""
 			(at 87.63 30.48 90)
 			(hide yes)
 			(show_name no)
@@ -12930,7 +13700,29 @@
 				)
 			)
 		)
-		(property "PartNo" "399-C0603C104K5RACTUCT-ND"
+		(property "Digikey" "399-C0603C104K5RACTUCT-ND"
+			(at 41.91 176.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C14663"
+			(at 41.91 176.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNo" ""
 			(at 41.91 176.53 0)
 			(hide yes)
 			(show_name no)
