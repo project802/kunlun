@@ -2,10 +2,8 @@ kicad/Kunlun-backups
 kicad/fp-info-cache
 *.kicad_prl
 *.log
-mcu board redesign/kicad/Kunlun STM32 MCU Board-backups
-/mcu board redesign/kicad/gerber
 *.lck
+mcu board redesign/kicad/_autosave-*
+mcu board redesign/kicad/Kunlun STM32 MCU Board-backups
 mcu board redesign/kicad/fabrication-toolkit-options.json
-/mcu board redesign/kicad/production
-mcu board redesign/kicad/Kunlun STM32 MCU Board.xml
-mcu board redesign/kicad/Kunlun STM32 MCU Board-all-pos.csv
+mcu board redesign/kicad/production/backups/
