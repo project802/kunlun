@@ -8,12 +8,16 @@ The failure mode presented as "ghost" key presses. Pressing one key anywhere on 
 
 As I began the repair, I realized that the design was not something I had seen before, nor was it one commonly seen in the mechanical keyboard community (for good reason, see the section below on shift registers). It is remarkably simple, and therefore remarkably easy to diagnose and repair.
 
+## MCU Board Redesign
+
+I have designed a replacement MCU board based on an STM32F072. For more information, [see the mcu board redesign folder](mcu%20board%20redesign/).
+
 ## Updated Firmware
 During this process, I also ported the [original firmware written by YDKB](https://github.com/yangdigi/vial-qmk-v5/tree/ava) to the latest version of Vial. QMK has grown a lot since Kunlun was introduced, so it required some optimization and feature set choices to be made to fit within the microcontroller constraints. 
 
 My port can be found here: https://github.com/project802/vial-qmk
 
-A prebuilt image is here: https://github.com/project802/vial-qmk/keyboards/ydkb/kunlun/prebuilt/ydkb_kunlun_vial.bin.
+A prebuilt image can be found in the [prebuilt binaries folder](prebuilt/).
 
 To update the firmware:
 
