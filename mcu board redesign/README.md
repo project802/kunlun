@@ -15,12 +15,17 @@ Otherwise, it reuses the same board geometry, mounting features, and connector l
 The pug is Moose. He was a good boy.
 
 ## Vial Support
+### Prebuilt
+A prebuilt binary can be found in the prebuilt folder: https://github.com/project802/kunlun/tree/main/prebuilt 
+
+### Build from source
 Download my fork of Vial here: https://github.com/project802/vial-qmk
 
 Follow the normal Vial setup instructions. Build the binary with the command below:
 
         make project802/kunlun:vial
 
+### Flashing
 Flash as usual using the STM32 DFU mode.
 
 ## Design Files and BOM
