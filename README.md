@@ -1,6 +1,6 @@
-# Kunlun Keyboard Reverse Engineering
+# Kunlun Keyboard Repair and Upgrade
 
-This repository contains documentation based on reverse engineering the Kunlun keyboard from YDKB / KBDfans.
+This repository contains documentation for repairing and upgrading the Kunlun keyboard from YDKB / KBDfans.
 
 My Kunlun stopped functioning after one too many [ESD strikes](https://en.wikipedia.org/wiki/Electrostatic_discharge) approximately 3 years into ownership. The journey to create this documentation started because I wanted to bring my keyboard back to life, and there were no replacement parts.
 
@@ -10,9 +10,9 @@ As I began the repair, I realized that the design was not something I had seen b
 
 ## MCU Board Redesign
 
-I have designed a replacement MCU board based on an STM32F072. For more information, [see the mcu board redesign folder](mcu%20board%20redesign/).
+I have designed a replacement MCU board based on an STM32F072. For more information, [see the mcu board redesign folder](mcu%20board%20redesign/). Improvements include ESD support, an upgraded processor that allows for enabling all Vial features, and a speaker.
 
-## Updated Firmware
+## Updated Firmware for Original MCU
 During this process, I also ported the [original firmware written by YDKB](https://github.com/yangdigi/vial-qmk-v5/tree/ava) to the latest version of Vial. QMK has grown a lot since Kunlun was introduced, so it required some optimization and feature set choices to be made to fit within the microcontroller constraints. 
 
 My port can be found here: https://github.com/project802/vial-qmk
@@ -27,7 +27,7 @@ To update the firmware:
 - Plug in keyboard
 - Copy (or drag and drop) the firmware image onto the storage device presented by the keyboard
 
-## Design
+## Keyboard Design
 
 ### Major Components
 
