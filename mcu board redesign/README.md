@@ -37,8 +37,12 @@ The BOM is included in the [KiCad design files](kicad/), and as an export in the
 
 [Digikey Minimal BOM](https://www.digikey.com/en/mylists/list/V16MMQCCVU) - No debug features and no speaker (~$11 USD)
 
-At the time of writing (5/2026), the cost for 5 boards with a nano coated and electropolished stencil to the US from JLCPCB was $21 USD.
+At the time of writing (5/2026), the cost for 5 boards with a nano coated and electropolished stencil to the US from JLCPCB was $21 USD. Boards alone are $5-$6 shipped.
 
+### Manufacturing Data
+FR4, 2 layers, 1.6mm thick, 1 oz copper
+
+PCB Color: white with black silkscreen
 
 ## Pinout
 
