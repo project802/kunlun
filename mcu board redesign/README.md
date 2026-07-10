@@ -1,6 +1,6 @@
 # Kunlun MCU Board Redesign
 
-![Image of PCB](images/pcb_projection.JPG)
+![Image of PCB](images/Project802_Kunlun_r1a.jpg)
 
 This is a redesign of the MCU board in the KBDFans Kunlun keyboard with the primary purpose of switching to an STM32F072 processor. The stock ATMega-based design is great, but the part is limited in code space and EEPROM to enable all of the modern Vial features. 
 
