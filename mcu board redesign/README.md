@@ -34,7 +34,7 @@ Design files were made with KiCad 10. Full schematic and PCB are included.
 
 The BOM is included in the [KiCad design files](kicad/), and as an export in the [production folder](kicad/production/). The export was done with JLCPCB's fabrication output plugin as I primarily use them as my fab house.
 
-[Web-based interactive BOM and layout](bom/ibom.html) 
+[Web-based interactive BOM and layout](https://htmlpreview.github.io/?https://github.com/project802/kunlun/blob/main/mcu%20board%20redesign/kicad/bom/ibom.html) 
 
 [Digikey Full BOM](https://www.digikey.com/en/mylists/list/4LIAA4M82M) - All components including debug features (~$15 USD) 
 
